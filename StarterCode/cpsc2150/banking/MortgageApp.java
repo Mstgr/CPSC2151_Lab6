@@ -1,6 +1,7 @@
-package cpsc2150.banking;
+package cpsc2150.banking.models.cpsc2150.banking;
 
-import cpsc2150.banking.models.*;
+import cpsc2150.banking.models.cpsc2150.banking.models.Customer;
+import cpsc2150.banking.models.cpsc2150.banking.models.ICustomer;
 
 public class MortgageApp {
 

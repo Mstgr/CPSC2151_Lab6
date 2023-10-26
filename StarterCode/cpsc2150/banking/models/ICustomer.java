@@ -1,4 +1,4 @@
-package cpsc2150.banking.models;
+package cpsc2150.banking.models.cpsc2150.banking.models;
 
 /**
  * Holds information about their customer and allows them to apply for a loan. The actual work for the loan is handled by IMortgage

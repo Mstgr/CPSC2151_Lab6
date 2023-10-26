@@ -1,4 +1,4 @@
-package cpsc2150.banking.models;
+package cpsc2150.banking.models.cpsc2150.banking.models;
 
 /**
  * This object will hold the information about a mortgage, and will handle all calculations for interest rate and monthly payments

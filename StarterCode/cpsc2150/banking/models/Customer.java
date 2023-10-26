@@ -1,4 +1,4 @@
-package cpsc2150.banking.models;
+package cpsc2150.banking.models.cpsc2150.banking.models;
 
 /**
  * @invariant name != "" AND monthlyDeptPayments >= 0 AND income >= 0 AND 0 <= creditScore <= MAX_CREDIT_SCORE

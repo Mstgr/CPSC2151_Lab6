@@ -1,4 +1,4 @@
-package cpsc2150.banking.models;
+package cpsc2150.banking.models.cpsc2150.banking.models;
 
 public abstract class AbsCustomer implements ICustomer {
 

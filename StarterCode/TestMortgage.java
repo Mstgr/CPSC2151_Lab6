@@ -1,5 +1,8 @@
 package cpsc2150.banking.models;
 
+import cpsc2150.banking.models.cpsc2150.banking.models.Customer;
+import cpsc2150.banking.models.cpsc2150.banking.models.ICustomer;
+import cpsc2150.banking.models.cpsc2150.banking.models.IMortgage;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
